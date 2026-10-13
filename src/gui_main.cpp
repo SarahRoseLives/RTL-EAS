@@ -71,6 +71,8 @@ void applyTheme()
 void loadFonts(ImGuiIO& io)
 {
     const char* paths[] = {
+        "Roboto-Medium.ttf",
+        "fonts/Roboto-Medium.ttf",
         "third_party/imgui/misc/fonts/Roboto-Medium.ttf",
         "../third_party/imgui/misc/fonts/Roboto-Medium.ttf",
         "../../third_party/imgui/misc/fonts/Roboto-Medium.ttf",
