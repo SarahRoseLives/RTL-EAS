@@ -1,0 +1,19 @@
+/build/
+/build-*/
+*.exe
+*.dll
+*.o
+*.a
+*.obj
+log.txt
+/recordings/
+compile_commands.json
+.vs/
+.vscode/
+.cache/
+
+# Runtime settings / generated output (not source)
+rtleas.ini
+rtleas.default.ini
+rtleas.cfg
+same_alerts.jsonl

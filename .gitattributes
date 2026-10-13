@@ -1,0 +1,14 @@
+* text=auto
+
+*.cpp  text eol=lf
+*.h    text eol=lf
+*.c    text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+
+*.wav   binary
+*.png   binary
+*.ico   binary
+*.ttf   binary
